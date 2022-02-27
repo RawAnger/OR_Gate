@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/205_HW/HW_1/OR_gate_tb_isim_beh.exe" -prj "D:/205_HW/HW_1/OR_gate_tb_beh.prj" "work.OR_gate_tb" 
